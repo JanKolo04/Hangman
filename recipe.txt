@@ -1,0 +1,14 @@
+---------------------------------Hangman mobile game--------------------------------
+                                   in Pytohn with 
+				      tkinter
+
+1. Jest plik hasłami do gry 
+2. Program pobiera losowe hasło z pliku 
+za pomoca funkcji random z biblioteki numpy
+3. Pętla for sprawdza zanki hasła
+4. I printuje podstawki pod litery zgodnie z iloscia liter 
+5. Wpisuje sie litery pojedynczo na kazda próbe 
+6. Po nie udanej próbe trafienia liczby odejmuje liczbe szans i wstawia błedną liczbe 
+do listy z błednymi znakami
+7. A gdy trficz zmienia podstawke na liczbe
+8. Gdy odkaniesz hasło gra sie zatrzymuje i pokazuje sie zagraj ponownie 
