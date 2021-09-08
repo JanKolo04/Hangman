@@ -12,3 +12,12 @@ za pomoca funkcji random z biblioteki numpy
 do listy z błednymi znakami
 7. A gdy trficz zmienia podstawke na liczbe
 8. Gdy odkaniesz hasło gra sie zatrzymuje i pokazuje sie zagraj ponownie 
+
+
+
+
+
+
+1. wpis litery
+2. kilck button
+3. overwrite label   https://www.youtube.com/watch?v=Q-rRF6c8kJM&ab_channel=Codemy.com
